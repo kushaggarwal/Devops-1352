@@ -17,4 +17,10 @@
 7. git push -u origin main - Push the changes from local repository to remote repository on Github
 
 8. git pull origin main - Pull the latest changes from remote repository to local repository. This is used to keep the two of them in sync with each other
+
+9. git branch - List all the current branches in code repository and one you are currently on.
+
+10. git checkout -b <branch-name> - Create and change into a new branch
+
+11. git checkout <branch-name> - Change into any existing branch
 ```
